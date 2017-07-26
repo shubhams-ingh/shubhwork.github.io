@@ -1,2 +1,4 @@
-title: Welcome to the Shubhwork's homepage.
-description: Feel free to bookmark this.
+Welcome to the Shubhwork's homepage!
+<br>Feel free to bookmark this.
+
+<p>This page will be updated soon!</p>
